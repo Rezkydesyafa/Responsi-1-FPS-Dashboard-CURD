@@ -1,4 +1,4 @@
-# Responsi-1-FPS-Dashboard-CURD
+
 
 # 📦 Dashboard Sederhana (CRUD)
 
@@ -8,7 +8,8 @@
 **Aplikasi dashboard sederhana untuk CRUD** (Create, Read, Update, Delete) yang responsif dan ringan. Proyek ini dibuat untuk memenuhi tugas responsi, dibangun menggunakan JavaScript (jQuery) dan Bootstrap 5 untuk tampilan antarmuka yang bersih.
 
 ![Tampilan Dashboard](./screenshot.png)
-_(Mohon pastikan Anda mengupload screenshot aplikasi dan memberinya nama file 'screenshot.png')_
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/2a969327-0362-4e4e-bec9-08c6c73656da" />
+
 
 ## ✨ Fitur Utama
 
