@@ -7,7 +7,7 @@
 
 **Aplikasi dashboard sederhana untuk CRUD** (Create, Read, Update, Delete) yang responsif dan ringan. Proyek ini dibuat untuk memenuhi tugas responsi, dibangun menggunakan JavaScript (jQuery) dan Bootstrap 5 untuk tampilan antarmuka yang bersih.
 
-![Tampilan Dashboard](./screenshot.png)
+
 <img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/2a969327-0362-4e4e-bec9-08c6c73656da" />
 
 
@@ -34,7 +34,7 @@ Aplikasi ini berjalan di sisi klien (_client-side_), sehingga tidak memerlukan i
 
 1.  **Clone repositori ini**
     ```bash
-    git clone [https://github.com/Rezkydesyafa/Responsi-1-FPS-Dashboard-CURD.git](https://github.com/Rezkydesyafa/Responsi-1-FPS-Dashboard-CURD.git)
+    git clone [https://github.com/Rezkydesyafa/Responsi-1-FPS-Dashboard-CURD.git]
     ```
 2.  **Masuk ke folder proyek**
     ```bash
